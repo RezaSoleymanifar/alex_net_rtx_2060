@@ -7,6 +7,11 @@ clone repo:
 
 `git clone https://github.com/RezaSoleymanifar/alex_net_gpu.git`
 
+Model architecture:
+
+![GitHub Logo](alex_net.png)
+
+
 start training:
 
 `python alex_net_gpu.py`
