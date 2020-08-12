@@ -1,6 +1,8 @@
 **Dataset**: [CIFAR100](https://www.tensorflow.org/datasets/catalog/cifar100), 100 classes and 600 images per class. 50,000 images for
  training and, 10,000 images reserved for testing.
 
+![GitHub Logo](dataset.gif)
+
 clone repo:
 
 `git clone https://github.com/RezaSoleymanifar/alex_net_gpu.git`
