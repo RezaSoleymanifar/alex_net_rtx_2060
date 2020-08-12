@@ -11,3 +11,5 @@ Best model is saved each time an improvement in validation loss is triggered. te
 For tensorboard run:
 
 `tensorboard --logdir=tboard`
+
+Result: achieves 94% training accuracy using RTX 2060 Nvidia GPU.
