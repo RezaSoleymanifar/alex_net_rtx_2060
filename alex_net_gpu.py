@@ -7,7 +7,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout, Flatten, Conv2D, MaxPooling2D
 from tensorflow.keras.layers import BatchNormalization
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, TensorBoard
-# from tensorflow.keras.models import load_model
+
 
 # Check that GPU is available: cf. https://colab.research.google.com/notebooks/gpu.ipynb
 assert(tf.test.is_gpu_available())
